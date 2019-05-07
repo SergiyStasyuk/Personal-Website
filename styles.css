@@ -1,19 +1,19 @@
 body {
   text-align: center;
-  background: url();
+  background: url("background-blur-clean-531880.jpg");
   background-size: cover;
-  background-position: center;
-  color: white;
+  color: #000000;
   font-family: helvetica;
 }
 
 img {
-  width: 20px;
-  height: 20px;
+ width: 300px;
+ height: 300px;
 }
 
 p {
-  font-size: 22px;
+  font-size: 26px;
+  font-weight: bold;
 }
 input {
   border: 0;
