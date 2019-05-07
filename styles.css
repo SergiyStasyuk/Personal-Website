@@ -1,0 +1,27 @@
+body {
+  text-align: center;
+  background: url();
+  background-size: cover;
+  background-position: center;
+  color: white;
+  font-family: helvetica;
+}
+
+img {
+  width: 20px;
+  height: 20px;
+}
+
+p {
+  font-size: 22px;
+}
+input {
+  border: 0;
+  padding: 10px;
+  font-size: 18px;
+}
+input[type="submit"] {
+  background: red;
+  color: white;
+}
+
